@@ -1,1 +1,1 @@
-This JavaEE CourseSystem which privide  course register  function using NoSQL CourseBase
+This JavaEE CourseSystem which provide  course register  function using NoSQL CourseBase
